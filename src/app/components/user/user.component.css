@@ -1,0 +1,18 @@
+h1{
+    color: red;
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: black;
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+}
+p{
+    font-family: "Raleway", Helvetica, Arial, sans-serif;
+    line-height: 1.85;
+    font-size: 600; 
+}
+a {
+    -webkit-transition: 0.5s;
+    -o-transition: 0.5s;
+    transition: 0.5s;
+    text-decoration: none;
+  }
